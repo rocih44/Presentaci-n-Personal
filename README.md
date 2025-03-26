@@ -1,9 +1,9 @@
 # Presentacion-Personal
 C1 'Laboratorio de Programación y Lenguajes'
 
-# ¡Hola! Soy Rocío Agustina Herrera
+ <h1 align="center">¡Hola! Soy Rocío Agustina Herrera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Foto de Rocío](ruta/a/tu/foto.jpg)
+![Esta soy yo](ruta/a/tu/foto.jpg)
 
 ## Datos Personales
 
@@ -28,11 +28,20 @@ Disfruto ver videos de interés general en TikTok y YouTube, así como investiga
 
 ## Sobre Mí
 
-Me considero una persona apasionada por el estudio y comprometida con mis responsabilidades. La sensación de tener tareas pendientes me motiva a completarlas con dedicación. Valoro el trabajo en equipo y me adapto fácilmente a entornos colaborativos, siempre buscando facilitar el logro de objetivos comunes. Soy persistente y me esfuerzo por cumplir con mis compromisos y proyectos.
+ Me considero una persona apasionada por el estudio y comprometida con mis responsabilidades. La sensación de tener tareas pendientes me motiva a completarlas con dedicación. Valoro el trabajo en equipo y me adapto fácilmente a entornos colaborativos, siempre buscando facilitar el logro de objetivos comunes. Soy persistente y me esfuerzo por cumplir con mis compromisos y proyectos.
 
 ## Contacto
+<a href="https://myaccount.google.com/?hl=es&gar=WzEyMF0">
+  <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-- **Email:** rociohuni23@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tuusuario)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+<a href="www.linkedin.com/in/rocío-herrera-820257267">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href= "https://www.instagram.com/_roherrera_/?h1=es">
+  <img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+
 
