@@ -3,7 +3,7 @@ C1 'Laboratorio de Programación y Lenguajes'
 
  <h1 align="center">¡Hola! Soy Rocío Agustina Herrera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Esta soy yo](ruta/a/tu/foto.jpg)
+![Esta soy yo](https://github.com/rocih44/rocih44/blob/d85d398b5e78cf2b109623f160f6095fee23decb/photo_5123125969962511872_y.jpg)
 
 ## Datos Personales
 
