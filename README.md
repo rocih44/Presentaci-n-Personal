@@ -14,7 +14,7 @@ C1 'Laboratorio de Programación y Lenguajes'
 
 ## ⭐Formación Académica
 
-Actualmente, soy estudiante en la Universidad Nacional de José C. Paz (UNPAZ). Inicié en marzo de 2023 con el Ciclo de Inicio Universitario (CIU) y actualmente curso el segundo año de la carrera de Licenciatura en Gestión de Tecnologías de la Información (LGTI). A pesar de no tener experiencia laboral formal en el área, me siento orgullosa de mi progreso académico y continuo esforzándome por alcanzar mis metas profesionales.
+A dia de hoy, soy estudiante en la Universidad Nacional de José C. Paz (UNPAZ). Inicié en Marzo de 2023 con el Ciclo de Inicio Universitario (CIU) y actualmente curso el segundo año de la carrera de Licenciatura en Gestión de Tecnologías de la Información (LGTI). A pesar de no tener experiencia laboral formal en el área, me siento orgullosa de mi progreso académico y continuo esforzándome por alcanzar mis metas profesionales.
 
 ## ⭐Habilidades Técnicas
 
